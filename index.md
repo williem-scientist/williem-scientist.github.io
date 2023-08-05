@@ -6,7 +6,7 @@ My academic achievements didn't stop there; I received numerous outstanding pape
 
 From September 2017 to August 2020, I embarked on a new chapter as a faculty member at Binus University. It was an immensely fulfilling experience to guide and inspire the next generation of aspiring minds in the realm of computer science.
 
-As my passion for innovation grew, I co-founded Verihubs in June 2019 and embraced the role of CTO & co-founder. For four years, until August 2023, I led a dynamic team, creating innovative solutions and striving to make a difference in the startup ecosystem.
+As my passion for innovation grew, I co-founded Verihubs in June 2019 and embraced the role of CTO & co-founder. For four years, until now, I led a dynamic team, creating innovative solutions and striving to make a difference in the startup ecosystem.
 
 Currently, I find myself on a well-deserved break, where I am dedicating my time to exploring various fascinating research topics. My commitment to advancing computer vision and artificial intelligence remains strong, as I actively serve as a reviewer in top conferences. I have been recognized three times as an outstanding reviewer in  ECCV 2020, CVPR 2021, and CVPR 2023.
 
