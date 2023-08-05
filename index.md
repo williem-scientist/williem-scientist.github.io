@@ -1,22 +1,34 @@
 ## Williem
 
-Hi, I am Williem, a CTO and Cofounder of Verihubs, since June 2019.
-I obtained my Ph.D. degree in information and communication engineering from Inha University, Korea, in August 2017.
+Hello, I'm Williem, and my journey has been one of passion, dedication, and constant growth. In August 2017, I reached a significant milestone by obtaining my Ph.D. in information and communication engineering from Inha University, Korea. During my Ph.D. years, I delved into cutting-edge research and proudly published papers in esteemed computer vision conferences and journals like CVPR, ICCV, and TPAMI.
+
+My academic achievements didn't stop there; I received numerous outstanding paper awards, a testament to the impact of my research in the field. As I graduated in 2017, I was honored with the Outstanding Research Award, recognizing my contributions during my academic journey.
+
+From September 2017 to August 2020, I embarked on a new chapter as a faculty member at Binus University. It was an immensely fulfilling experience to guide and inspire the next generation of aspiring minds in the realm of computer science.
+
+As my passion for innovation grew, I co-founded Verihubs in June 2019 and embraced the role of CTO & co-founder. For four years, until August 2023, I led a dynamic team, creating innovative solutions and striving to make a difference in the startup ecosystem.
+
+Currently, I find myself on a well-deserved break, where I am dedicating my time to exploring various fascinating research topics. My commitment to advancing computer vision and artificial intelligence remains strong, as I actively serve as a reviewer in top conferences. I have been recognized three times as an outstanding reviewer in  ECCV 2020, CVPR 2021, and CVPR 2023.
+
+With a heart full of ambition and a thirst for knowledge, I eagerly look forward to the next chapter of my journey, where I hope to make an even more significant impact through my research and contributions to the technological landscape.
 
 
 My research problem focuses on computer vision, computational photography, and image processing, which are as follows but not limited to:
 - Stereo matching
-- Light field depth Estimation
+- Light field depth estimation
 - Light field synthesis
 - Image enhancement
 - GPGPU computation
 - SLAM
 - Face recognition
+- Face anti-spoofing
+- Deep fake detector
 - License plate recognition
 - License plate detection
+- Image synthesis
 
 Link and Email:
-- Email : name@verihubs.com
+- Email : -
 - [Google Scholar](https://scholar.google.com/citations?user=XS9FjigAAAAJ&hl=en)
 
 
