@@ -80,15 +80,15 @@ Andre Ivan, <b>Williem</b>, and I. K. Park<br/>
 ### Conferences
 - [<b>On Manipulating Scene Text in the Wild With Diffusion Models</b>]([https://rlq-tod.github.io/](https://openaccess.thecvf.com/content/WACV2024/html/Santoso_On_Manipulating_Scene_Text_in_the_Wild_With_Diffusion_Models_WACV_2024_paper.html))<br/>
 Joshua Santoso, Christian Simon and <b>Williem</b> <br/>
-<b>IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2024. </b> <br/><img src="https://github.com/williem-scientist/williem-scientist.github.io/blob/master/images/joshua_wacv2024.png"  height="70px" width="auto" />
+<b>IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2024. </b> <br/><img src="https://raw.githubusercontent.com/williem-scientist/williem-scientist.github.io/master/images/joshua_wacv2024.png?raw=true"  height="70px" width="auto" />
 
 - [<b>Face Mask Invariant End-to-End Face Recognition</b>](https://rlq-tod.github.io/)<br/>
 I Putu Agi Karasugi and <b>Williem</b> <br/>
-<b>ECCV Workshop on Real-world Computer Vision from Inputs with Limited Quality (in conjunction with ECCV 2020), 2020. </b> <br/><img src="https://github.com/williem-scientist/williem-scientist.github.io/blob/master/images/rlqeccv2020.png"  height="70px" width="auto" />
+<b>ECCV Workshop on Real-world Computer Vision from Inputs with Limited Quality (in conjunction with ECCV 2020), 2020. </b> <br/><img src="https://raw.githubusercontent.com/williem-scientist/williem-scientist.github.io/master/images/rlqeccv2020.png?raw=true"  height="70px" width="auto" />
 
 - [<b>Light field depth estimation on off-the-shelf mobile GPU</b>](http://openaccess.thecvf.com/content_cvpr_2018_workshops/papers/w12/Ivan_Light_Field_Depth_CVPR_2018_paper.pdf)<br/>
 Andre Ivan, <b>Williem</b>, and In Kyu Park <br/>
-<b>IEEE Workshop on Embedded Computer Vision (in conjunction with CVPR 2018), 2018. </b> <br/><img src="https://github.com/williem-scientist/williem-scientist.github.io/blob/master/images/ivan_cvpr2018.png"  height="70px" width="auto" />
+<b>IEEE Workshop on Embedded Computer Vision (in conjunction with CVPR 2018), 2018. </b> <br/><img src="https://raw.githubusercontent.com/williem-scientist/williem-scientist.github.io/master/images/ivan_cvpr2018.png?raw=true"  height="70px" width="auto" />
 
 - [<b>Visual-inertial RGB-D SLAM for mobile augmented reality</b>](http://image.inha.ac.kr/paper/PCM2017_Williem.pdf)<br/>
 <b>Williem</b>, Andre Ivan, Hochang Seok, Jongwoo Lim, Kuk-Jin Yoon, Ikhwan Cho, and In Kyu Park<br/>
