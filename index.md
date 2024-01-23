@@ -8,10 +8,11 @@ From September 2017 to August 2020, I embarked on a new chapter as a faculty mem
 
 As my passion for innovation grew, I co-founded Verihubs in June 2019 and embraced the role of CTO & co-founder. For four years, until August 2023, I led a dynamic team, creating innovative solutions and striving to make a difference in the startup ecosystem.
 
-Currently, I find myself on a well-deserved break, where I am dedicating my time to exploring various fascinating research topics. My commitment to advancing computer vision and artificial intelligence remains strong, as I actively serve as a reviewer in top conferences. I have been recognized three times as an outstanding reviewer in  ECCV 2020, CVPR 2021, and CVPR 2023.
+However, my focus has shifted, and I now find myself deeply immersed in a new and exciting chapter. I've chosen to pursue the path of an independent AI researcher in Indonesia, actively contributing to the ever-evolving landscape of artificial intelligence. Notably, I am honored to be a founding member of the [Indonesia Vision AI community](https://visionai.id/), where our collective mission is to accelerate the growth of Vision AI in my home country.
 
-With a heart full of ambition and a thirst for knowledge, I eagerly look forward to the next chapter of my journey, where I hope to make an even more significant impact through my research and contributions to the technological landscape.
+I am dedicating my time to exploring a diverse range of fascinating topics within the field. My commitment to advancing computer vision and artificial intelligence remains steadfast, evident in my continued role as an active reviewer for top conferences. I am proud to have received recognition three times as an outstanding reviewer in ECCV 2020, CVPR 2021, and CVPR 2023.
 
+With a heart full of ambition and an insatiable thirst for knowledge, I am enthusiastic about the impact I can make through my research and contributions to the technological landscape, especially in fostering the growth of Vision AI in Indonesia.
 
 My research problem focuses on computer vision, computational photography, and image processing, which are as follows but not limited to:
 - Stereo matching
@@ -77,6 +78,10 @@ Andre Ivan, <b>Williem</b>, and I. K. Park<br/>
 
 
 ### Conferences
+- [<b>On Manipulating Scene Text in the Wild With Diffusion Models</b>]([https://rlq-tod.github.io/](https://openaccess.thecvf.com/content/WACV2024/html/Santoso_On_Manipulating_Scene_Text_in_the_Wild_With_Diffusion_Models_WACV_2024_paper.html))<br/>
+Joshua Santoso, Christian Simon and <b>Williem</b> <br/>
+<b>IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2024. </b> <br/><img src="https://github.com/williem-scientist/williem-scientist.github.io/blob/master/images/joshua_wacv2024.png?raw=true"  height="70px" width="auto" />
+
 - [<b>Face Mask Invariant End-to-End Face Recognition</b>](https://rlq-tod.github.io/)<br/>
 I Putu Agi Karasugi and <b>Williem</b> <br/>
 <b>ECCV Workshop on Real-world Computer Vision from Inputs with Limited Quality (in conjunction with ECCV 2020), 2020. </b> <br/><img src="https://github.com/williem-scientist/williem-scientist.github.io/blob/master/images/rlqeccv2020.png?raw=true"  height="70px" width="auto" />
