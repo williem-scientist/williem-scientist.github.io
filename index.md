@@ -78,7 +78,7 @@ Andre Ivan, <b>Williem</b>, and I. K. Park<br/>
 
 
 ### Conferences
-- [<b>On Manipulating Scene Text in the Wild With Diffusion Models</b>]([https://rlq-tod.github.io/](https://openaccess.thecvf.com/content/WACV2024/html/Santoso_On_Manipulating_Scene_Text_in_the_Wild_With_Diffusion_Models_WACV_2024_paper.html))<br/>
+- [<b>On Manipulating Scene Text in the Wild With Diffusion Models</b>](https://openaccess.thecvf.com/content/WACV2024/html/Santoso_On_Manipulating_Scene_Text_in_the_Wild_With_Diffusion_Models_WACV_2024_paper.html))<br/>
 Joshua Santoso, Christian Simon and <b>Williem</b> <br/>
 <b>IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2024. </b> <br/><img src="https://raw.githubusercontent.com/williem-scientist/williem-scientist.github.io/master/images/joshua_wacv2024.png?raw=true"  height="70px" width="auto" />
 
