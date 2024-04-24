@@ -82,7 +82,7 @@ Andre Ivan, <b>Williem</b>, and I. K. Park<br/>
 Joshua Santoso, Christian Simon and <b>Williem</b> <br/>
 <b>IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2024. </b> <br/><img src="https://raw.githubusercontent.com/williem-scientist/williem-scientist.github.io/master/images/joshua_wacv2024.png?raw=true"  height="70px" width="auto" />
 
-- [<b>Face Mask Invariant End-to-End Face Recognition</b>](https://rlq-tod.github.io/)<br/>
+- [<b>Face Mask Invariant End-to-End Face Recognition</b>](https://link.springer.com/chapter/10.1007/978-3-030-68238-5_19)<br/>
 I Putu Agi Karasugi and <b>Williem</b> <br/>
 <b>ECCV Workshop on Real-world Computer Vision from Inputs with Limited Quality (in conjunction with ECCV 2020), 2020. </b> <br/><img src="https://raw.githubusercontent.com/williem-scientist/williem-scientist.github.io/master/images/rlqeccv2020.png?raw=true"  height="70px" width="auto" />
 
@@ -90,31 +90,27 @@ I Putu Agi Karasugi and <b>Williem</b> <br/>
 Andre Ivan, <b>Williem</b>, and In Kyu Park <br/>
 <b>IEEE Workshop on Embedded Computer Vision (in conjunction with CVPR 2018), 2018. </b> <br/><img src="https://raw.githubusercontent.com/williem-scientist/williem-scientist.github.io/master/images/ivan_cvpr2018.png?raw=true"  height="70px" width="auto" />
 
-- [<b>Visual-inertial RGB-D SLAM for mobile augmented reality</b>](http://image.inha.ac.kr/paper/PCM2017_Williem.pdf)<br/>
+- [<b>Visual-inertial RGB-D SLAM for mobile augmented reality</b>](https://link.springer.com/chapter/10.1007/978-3-319-77383-4_91)<br/>
 <b>Williem</b>, Andre Ivan, Hochang Seok, Jongwoo Lim, Kuk-Jin Yoon, Ikhwan Cho, and In Kyu Park<br/>
 <b>Pacific-Rim Conference on Multimedia, 2017.</b> <br/><img src="https://raw.githubusercontent.com/williem-scientist/williem-scientist.github.io/master/images/williem_pcm2017.png?raw=true"  height="70px" width="auto" />
 
-- [<b>Feature Descriptors for 4D Light Field Images</b>](http://image.inha.ac.kr/paper/FCV2017Jonathan.pdf) <br/>
-Jonathan Samuel Lumentut, <b>Williem</b>, and In Kyu Park<br/>
-<b>Japan-Korea Workshop on Frontiers of Computer Vision, 2017.</b> <br/><img src="https://raw.githubusercontent.com/williem-scientist/williem-scientist.github.io/master/images/jonathan_fcv2017.png?raw=true"  height="70px" width="auto" />
-
-- [<b>Robust light field depth estimation for noisy scene with occlusion</b>](http://image.inha.ac.kr/paper/CVPR2016_Williem.pdf) <br/>
+- [<b>Robust light field depth estimation for noisy scene with occlusion</b>](https://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/Williem_Robust_Light_Field_CVPR_2016_paper.pdf) <br/>
 <b>Williem</b> and In Kyu Park<br/>
 <b>* IEEE Conference on Computer Vision and Pattern Recognition (h-index: 309), 2016.</b> <br/><img src="https://raw.githubusercontent.com/williem-scientist/williem-scientist.github.io/master/images/williem_cvpr2016.png?raw=true"  height="70px" width="auto" />
 
-- [<b>Depth map estimation and colorization of anaglyph images using local color prior and reverse intensity distribution</b>](http://image.inha.ac.kr/paper/ICCV2015_Williem.pdf) <br/>
+- [<b>Depth map estimation and colorization of anaglyph images using local color prior and reverse intensity distribution</b>](https://openaccess.thecvf.com/content_iccv_2015/papers/Williem_Depth_Map_Estimation_ICCV_2015_paper.pdf) <br/>
 <b>Williem</b>, Ramesh Raskar, and In Kyu Park<br/>
 <b>* IEEE International Conference on Computer Vision (h-index: 224), 2015.</b> <br/><img src="https://raw.githubusercontent.com/williem-scientist/williem-scientist.github.io/master/images/williem_iccv2015.png?raw=true"  height="70px" width="auto" />
 
-- [<b>Correcting photometric distortion of document images on a smartphone</b>](http://image.inha.ac.kr/paper/CVPRW_19_final.pdf) <br/>
+- [<b>Correcting photometric distortion of document images on a smartphone</b>](https://openaccess.thecvf.com/content_cvpr_workshops_2014/W03/papers/Simon_Correcting_Photometric_Distortion_2014_CVPR_paper.pdf) <br/>
 Christian Simon, <b>Williem</b>, Jihwan Choe, Il Dong Yun, and In Kyu Park<br/>
 <b>IEEE Workshop on Mobile Vision (in conjunction with CVPR 2014), 2014.</b> <br/><img src="https://raw.githubusercontent.com/williem-scientist/williem-scientist.github.io/master/images/simon_cvprw2014.png?raw=true" height="70px" width="auto" />
 
-- [<b>Fast and robust perspective rectification of document images on smartphone</b>](http://image.inha.ac.kr/paper/CVPRW_Perspective_Final.pdf) <br/>
+- [<b>Fast and robust perspective rectification of document images on smartphone</b>](https://openaccess.thecvf.com/content_cvpr_workshops_2014/W03/papers/Williem_Fast_and_Robust_2014_CVPR_paper.pdf) <br/>
 <b>Williem</b>, Christian Simon, Sungdae Cho, and In Kyu Park<br/>
 <b>IEEE Workshop on Mobile Vision (in conjunction with CVPR 2014), 2014.</b> <br/><img src="https://raw.githubusercontent.com/williem-scientist/williem-scientist.github.io/master/images/williem_cvprw2014.png?raw=true"  height="70px" width="auto" />
 
-- [<b>Memory-efficient belief propagation in stereo matching on GPU</b>](http://image.inha.ac.kr/paper/apsipa2012choi.pdf) <br/>
+- [<b>Memory-efficient belief propagation in stereo matching on GPU</b>](https://ieeexplore.ieee.org/document/6411871) <br/>
 Young-kyu Choi, <b>Williem</b>, and In Kyu Park<br/>
 <b>APSIPA Annual Summit and Conference, 2012.</b> <br/><img src="https://raw.githubusercontent.com/williem-scientist/williem-scientist.github.io/master/images/youngkyu_apsipa2012.png?raw=true"  height="70px" width="auto" />
 
