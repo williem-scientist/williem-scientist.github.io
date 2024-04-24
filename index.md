@@ -36,7 +36,7 @@ Link and Email:
 ## Publications
 
 ### Journals
-- [<b>Holistic 3D body reconstruction from a blurred single image</b>](https://ieeexplore.ieee.org/document/9933771/)<br/>
+- [<b>Holistic 3D body reconstruction from a blurred single image</b>](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9933771)<br/>
 Joshua Santoso, <b>Williem</b>, and I. K. Park<br/>
 <b>IEEE Access (IF: 4.098, h-index: 86), 2022.</b>
 
@@ -44,35 +44,35 @@ Joshua Santoso, <b>Williem</b>, and I. K. Park<br/>
 Andre Ivan, <b>Williem</b>, and I. K. Park<br/>
 <b>IEEE Access (IF: 4.098, h-index: 86), 2020.</b>
 
-- [<b>6-DOF motion blur synthesis and performance evaluation of light field deblurring</b>](http://image.inha.ac.kr/paper/MTAP2019Jonathan.pdf)<br/>
+- [<b>6-DOF motion blur synthesis and performance evaluation of light field deblurring</b>](https://link.springer.com/article/10.1007/s11042-019-08030-0)<br/>
  Jonathan Samuel Lumentut, <b>Williem</b>, and In Kyu Park<br/>
 <b>Multimedia Tools and Applications (IF: 2.313, h-index: 59), 2019.</b>
 
-- [<b>Robust light ﬁeld depth estimation using occlusion-noise aware data costs</b>](http://image.inha.ac.kr/paper/TPAMI2018WIlliem.pdf)<br/>
+- [<b>Robust light ﬁeld depth estimation using occlusion-noise aware data costs</b>](https://ieeexplore.ieee.org/document/8022875)<br/>
  <b>Williem</b>, In Kyu Park, and Kyoung Mu Lee<br/>
 <b>IEEE Trans. on Pattern Analysis and Machine Intelligence (IF: 17.73, h-index: 344), 2018.</b>
 
-- [<b>Cost aggregation benchmark for light field depth estimation</b>](http://image.inha.ac.kr/paper/JVCI2018Williem.pdf)<br/>
+- [<b>Cost aggregation benchmark for light field depth estimation</b>](https://www.sciencedirect.com/science/article/abs/pii/S1047320318302049?via%3Dihub)<br/>
  <b>Williem</b> and In Kyu Park<br/>
 <b>Journal of Visual Communication and Image Representation (IF: 2.259, h-index: 74), 2018.</b>
 
-- [<b>Deep self-guided cost aggregation for stereo matching</b>](http://image.inha.ac.kr/paper/PRL2018Williem.pdf)<br/>
+- [<b>Deep self-guided cost aggregation for stereo matching</b>](https://www.sciencedirect.com/science/article/abs/pii/S0167865518303003?via%3Dihub)<br/>
  <b>Williem</b> and In Kyu Park<br/>
 <b>Pattern Recognition Letters, 2018 (IF: 2.810, h-index: 149).</b>
 
-- [<b>Spatio-angular consistent editing framework for 4D light field images</b>](http://image.inha.ac.kr/wp-content/uploads/2017/07/MTAP2016Williem.pdf)<br/>
+- [<b>Spatio-angular consistent editing framework for 4D light field images</b>](https://link.springer.com/article/10.1007/s11042-016-3754-y)<br/>
  <b>Williem</b>, Ki Won Shon, and In Kyu Park<br/>
 <b>Multimedia Tools and Applications (IF: 2.313, h-index: 59), 2016.</b>
 
-- [<b>Correcting geometric and photometric distortion of document images on a smartphone</b>](http://image.inha.ac.kr/paper/JEI201501_Simon.pdf)<br/>
+- [<b>Correcting geometric and photometric distortion of document images on a smartphone</b>](https://www.spiedigitallibrary.org/journals/journal-of-electronic-imaging/volume-24/issue-1/013038/Correcting-geometric-and-photometric-distortion-of-document-images-on-a/10.1117/1.JEI.24.1.013038.short)<br/>
  Christian Simon, <b>Williem</b>, and In Kyu Park<br/>
 <b>Journal of Electronic Imaging (IF: 0.780, h-index: 63), 2015.</b>
 
-- [<b>Object-oriented framework for real-time image processing on GPU</b>](http://image.inha.ac.kr/paper/MTAP2013Nicolas.pdf)<br/>
+- [<b>Object-oriented framework for real-time image processing on GPU</b>](https://link.springer.com/article/10.1007/s11042-013-1440-x)<br/>
  Nicolas Seiller, <b>Williem</b>, Nitin Singhal, and In Kyu Park<br/>
 <b>Multimedia Tools and Applications (IF: 2.313, h-index: 59), 2014.</b>
 
-- [<b>Accurate and real-time depth video acquisition using Kinect-stereo camera fusion</b>](http://image.inha.ac.kr/paper/OE201404_Williem.pdf)<br/>
+- [<b>Accurate and real-time depth video acquisition using Kinect-stereo camera fusion</b>](https://www.spiedigitallibrary.org/journals/optical-engineering/volume-53/issue-4/043110/Accurate-and-real-time-depth-video-acquisition-using-Kinectstereo-camera/10.1117/1.OE.53.4.043110.short)<br/>
  <b>Williem</b>, Yu-Wing Tai, and In Kyu Park<br/>
 <b>Optical Engineering (IF: 1.28, h-index: 100), 2014.</b>
 
