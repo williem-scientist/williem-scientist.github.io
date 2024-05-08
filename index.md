@@ -143,5 +143,17 @@ Young-kyu Choi, <b>Williem</b>, and In Kyu Park<br/>
 - [우수학생논문상 (Best Student Paper Award) 제28회 영상처리 및 이해에 관한 워크샵 (2016)](http://image.inha.ac.kr/wp-content/uploads/2017/08/IPIUaward_2.jpg)
 
 ## Program Committee / Reviewer:
-- Conference: IEEE CVPR, IEEE ICCV, ECCV, ACCV, WACV, AAAI, NIPS, ICLR
-- Journal: IEEE TPAMI, IEEE TIP, IEEE TVCG
+
+- Conference:
+    - IEEE CVPR - 6 times (2018, 2019, 2020, 2021, 2022, 2023, 2024)
+    - IEEE ICCV - 3 times (2019, 2021, 2023)
+    - ECCV - 3 times (2020, 2022, 2024)
+    - ACCV - 2 times (2020, 2022, 2024)
+    - WACV - 2 times (2021, 2022, 2024)
+    - AAAI - 3 times (2020, 2021, 2022)
+    - NeurIPS - 2 times (2022, 2024)
+    - ICLR - 2 times (2022, 2024)
+- Journal:
+    - IEEE TPAMI
+    - IEEE TIP
+    - IEEE TVCG
