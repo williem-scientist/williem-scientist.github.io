@@ -145,11 +145,11 @@ Young-kyu Choi, <b>Williem</b>, and In Kyu Park<br/>
 ## Program Committee / Reviewer:
 
 - Conference:
-    - IEEE CVPR - 6 times (2018, 2019, 2020, 2021, 2022, 2023, 2024)
+    - IEEE CVPR - 7 times (2018, 2019, 2020, 2021, 2022, 2023, 2024)
     - IEEE ICCV - 3 times (2019, 2021, 2023)
     - ECCV - 3 times (2020, 2022, 2024)
-    - ACCV - 2 times (2020, 2022, 2024)
-    - WACV - 2 times (2021, 2022, 2024)
+    - ACCV - 3 times (2020, 2022, 2024)
+    - WACV - 3 times (2021, 2022, 2024)
     - AAAI - 3 times (2020, 2021, 2022)
     - NeurIPS - 2 times (2022, 2024)
     - ICLR - 2 times (2022, 2024)
