@@ -38,43 +38,43 @@ Link and Email:
 ### Journals
 - [<b>Holistic 3D body reconstruction from a blurred single image</b>](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9933771)<br/>
 Joshua Santoso, <b>Williem</b>, and I. K. Park<br/>
-<b>IEEE Access (IF: 4.098, h-index: 86), 2022.</b>
+<b>IEEE Access (IF: 3.9, h-index: 242), 2022.</b>
 
 - [<b>Joint light field spatial and angular super-resolution from a single image</b>](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9119124)<br/>
 Andre Ivan, <b>Williem</b>, and I. K. Park<br/>
-<b>IEEE Access (IF: 4.098, h-index: 86), 2020.</b>
+<b>IEEE Access (IF: 3.9, h-index: 242), 2020.</b>
 
 - [<b>6-DOF motion blur synthesis and performance evaluation of light field deblurring</b>](https://link.springer.com/article/10.1007/s11042-019-08030-0)<br/>
  Jonathan Samuel Lumentut, <b>Williem</b>, and In Kyu Park<br/>
-<b>Multimedia Tools and Applications (IF: 2.313, h-index: 59), 2019.</b>
+<b>Multimedia Tools and Applications (IF: 3.6, h-index: 106), 2019.</b>
 
 - [<b>Robust light ﬁeld depth estimation using occlusion-noise aware data costs</b>](https://ieeexplore.ieee.org/document/8022875)<br/>
  <b>Williem</b>, In Kyu Park, and Kyoung Mu Lee<br/>
-<b>IEEE Trans. on Pattern Analysis and Machine Intelligence (IF: 17.73, h-index: 344), 2018.</b>
+<b>IEEE Trans. on Pattern Analysis and Machine Intelligence (IF: 23.6, h-index: 417), 2018.</b>
 
 - [<b>Cost aggregation benchmark for light field depth estimation</b>](https://www.sciencedirect.com/science/article/abs/pii/S1047320318302049?via%3Dihub)<br/>
  <b>Williem</b> and In Kyu Park<br/>
-<b>Journal of Visual Communication and Image Representation (IF: 2.259, h-index: 74), 2018.</b>
+<b>Journal of Visual Communication and Image Representation (IF: 2.6, h-index: 96), 2018.</b>
 
 - [<b>Deep self-guided cost aggregation for stereo matching</b>](https://www.sciencedirect.com/science/article/abs/pii/S0167865518303003?via%3Dihub)<br/>
  <b>Williem</b> and In Kyu Park<br/>
-<b>Pattern Recognition Letters, 2018 (IF: 2.810, h-index: 149).</b>
+<b>Pattern Recognition Letters, 2018 (IF: 5.1, h-index: 181).</b>
 
 - [<b>Spatio-angular consistent editing framework for 4D light field images</b>](https://link.springer.com/article/10.1007/s11042-016-3754-y)<br/>
  <b>Williem</b>, Ki Won Shon, and In Kyu Park<br/>
-<b>Multimedia Tools and Applications (IF: 2.313, h-index: 59), 2016.</b>
+<b>Multimedia Tools and Applications (IF: 3.6, h-index: 106), 2016.</b>
 
 - [<b>Correcting geometric and photometric distortion of document images on a smartphone</b>](https://www.spiedigitallibrary.org/journals/journal-of-electronic-imaging/volume-24/issue-1/013038/Correcting-geometric-and-photometric-distortion-of-document-images-on-a/10.1117/1.JEI.24.1.013038.short)<br/>
  Christian Simon, <b>Williem</b>, and In Kyu Park<br/>
-<b>Journal of Electronic Imaging (IF: 0.780, h-index: 63), 2015.</b>
+<b>Journal of Electronic Imaging (IF: 1.1, h-index: 72), 2015.</b>
 
 - [<b>Object-oriented framework for real-time image processing on GPU</b>](https://link.springer.com/article/10.1007/s11042-013-1440-x)<br/>
  Nicolas Seiller, <b>Williem</b>, Nitin Singhal, and In Kyu Park<br/>
-<b>Multimedia Tools and Applications (IF: 2.313, h-index: 59), 2014.</b>
+<b>Multimedia Tools and Applications (IF: 3.6, h-index: 106), 2014.</b>
 
 - [<b>Accurate and real-time depth video acquisition using Kinect-stereo camera fusion</b>](https://www.spiedigitallibrary.org/journals/optical-engineering/volume-53/issue-4/043110/Accurate-and-real-time-depth-video-acquisition-using-Kinectstereo-camera/10.1117/1.OE.53.4.043110.short)<br/>
  <b>Williem</b>, Yu-Wing Tai, and In Kyu Park<br/>
-<b>Optical Engineering (IF: 1.28, h-index: 100), 2014.</b>
+<b>Optical Engineering (IF: 1.3, h-index: 120), 2014.</b>
 
 
 ### Conferences
