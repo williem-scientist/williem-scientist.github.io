@@ -133,6 +133,7 @@ Young-kyu Choi, <b>Williem</b>, and In Kyu Park<br/>
 
 
 ## Achievements
+- [Outstanding Reviewers in CVPR (2024)](https://twitter.com/CVPR/status/1793616950314369239)
 - [Outstanding Reviewers in CVPR (2023)](https://cvpr2023.thecvf.com/Conferences/2023/OutstandingReviewers)
 - [Outstanding Reviewers in CVPR (2021)](http://cvpr2021.thecvf.com/node/184)
 - [Top 215 Reviewer in ECCV (Top 7.6% from 2830 reviewers) (2020)](https://eccv2020.eu/outstanding-reviewers/)
