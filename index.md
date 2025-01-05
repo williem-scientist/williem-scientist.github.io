@@ -10,6 +10,8 @@ As my passion for innovation grew, I co-founded Verihubs in June 2019 and embrac
 
 However, my focus has shifted, and I now find myself deeply immersed in a new and exciting chapter. I've chosen to pursue the path of an independent AI researcher in Indonesia, actively contributing to the ever-evolving landscape of artificial intelligence. Notably, I am honored to be a founding member of the [Indonesia Vision AI community](https://visionai.id/), where our collective mission is to accelerate the growth of Vision AI in my home country.
 
+In this endeavor, I have had the privilege of co-organizing the Workshop on [Computer Vision for Developing Countries (CV4DC)](https://cv4dc.github.io/2024/), a prominent event held in conjunction with [ACCV 2024](https://accv2024.org/). This workshop aims to foster collaboration and advance computer vision research with a particular focus on the unique challenges and opportunities in developing countries.
+
 I am dedicating my time to exploring a diverse range of fascinating topics within the field. My commitment to advancing computer vision and artificial intelligence remains steadfast, evident in my continued role as an active reviewer for top conferences. I am proud to have received recognition four times as an outstanding reviewer in ECCV 2020, CVPR 2021, CVPR 2023, and CVPR 2024.
 
 With a heart full of ambition and an insatiable thirst for knowledge, I am enthusiastic about the impact I can make through my research and contributions to the technological landscape, especially in fostering the growth of Vision AI in Indonesia.
